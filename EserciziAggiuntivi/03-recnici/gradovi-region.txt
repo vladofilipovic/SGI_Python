@@ -1,0 +1,37 @@
+Crna Gora
+Podgorica	Podgorica	136.473	
+Niksic	Niksic	58.212	
+Pljevlja	Pljevlja	21.377	
+Bijelo Polje	Bijelo Polje	15.883	
+Cetinje	Cetinje	15.137	
+Bar	Bar	13.719	
+Herceg Novi	Herceg Novi	12.739	
+Berane	Berane	11.776	
+Budva	Budva	10.918	
+Petrovac	Budva	1.245
+Ulcinj	Ulcinj	10.828	
+Tivat	Tivat	9.467	
+Rozaje	Rozaje	9.121	
+Dobrota	Kotor	8.169	
+Danilovgrad	Danilovgrad	5.208
+Tuzi	Podgorica	4.857	
+Mojkovac	Mojkovac	4.120
+Skaljari	Kotor	4.002	
+Igalo	Herceg Novi	3.754
+Bijela	Herceg Novi	3.748
+Plav	Plav	3.615
+
+Srbija
+Stari Grad	Beograd	100.473	
+Palilula	Beograd	110.000	
+Zvezdara	Beograd	120.000	
+Novi Beograd	Beograd	300.473	
+Zemun	Beograd	23.000	
+Novi Sad	Novi Sad	223.000	
+Kraljevo	Kraljevo	123.000	
+Petrovac	Petrovac	7.000
+
+Makedonija
+Skopje	Skopje	300.000	
+Veles	Veles	40.000	
+Ohrid	Ohrid	12.000	

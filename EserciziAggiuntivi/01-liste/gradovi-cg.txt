@@ -1,0 +1,21 @@
+rbr.	grad	teritorija	populacija	
+1.	Podgorica	Podgorica	136.473	
+2.	Niksic	Niksic	58.212	
+3.	Pljevlja	Pljevlja	21.377	
+4.	Bijelo Polje	Bijelo Polje	15.883	
+5.	Cetinje	Cetinje	15.137	
+6.	Bar	Bar	13.719	
+7.	Herceg Novi	Herceg Novi	12.739	
+8.	Berane	Berane	11.776	
+9.	Budva	Budva	10.918	
+10.	Ulcinj	Ulcinj	10.828	
+11.	Tivat	Tivat	9.467	
+12.	Rozaje	Rozaje	9.121	
+13.	Dobrota	Kotor	8.169	
+14.	Danilovgrad	Danilovgrad	5.208
+15.	Tuzi	Podgorica	4.857	
+16.	Mojkovac	Mojkovac	4.120
+17.	Skaljari	Kotor	4.002	
+18.	Igalo	Herceg Novi	3.754
+19.	Bijela	Herceg Novi	3.748
+20.	Plav	Plav	3.615

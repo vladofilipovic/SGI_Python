@@ -1,0 +1,53 @@
+1. U datoteci `gradovi-cg.txt` date su informacije o nekim gradovima u Crnoj Gori.
+Svaki red datoteke sadrži sledeće informacije: redni broj grada (cio broj),
+naziv grada, naziv teritorije u kojoj se nalazi dati grad i broj stanovnika grada.
+
+a) Napraviti funkciju UcitajPodatkeGradovi, koja iz datoteke čita podatke o gradovima
+i kao rezultat vraće odgovarajuću listu tuplova, gde svaka tupla sadrži redni broj grada,
+naziv grada, naziv teritorije u kojoj se nalazi dati grad i broj stanovnika grada. 
+Funkcija ima jedan argument - putanju do datoteke koja sadrži podatke o gradovima.
+
+b) napraviti funkciju GradSaNajmanjeStanovnika, koja za listu tuplova sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada koji ima najmanje stanovnika.     
+
+def GradSaNajmanjeStanovnika(gradovi):
+	pass
+
+b) napraviti funkciju GradSaNajviseStanovnika, koja za listu tuplova sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada koji ima najvise stanovnika.
+
+def GradSaNajviseStanovnika(gradovi):
+	pass
+
+c) napraviti funkciju GradNajbliziDatojVelicini, koja za listu tuplova sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada koji je po broju stanovnika najbliži zadatoj veličini.
+Zadata veličina se takodje daje kao parametar funkcije.
+
+def GradNajbliziDatojVelicini(gradovi, ciljnaVelicina):
+	pass
+
+d) napraviti funkciju RbrPoNazivu, koja za listu tuplova sa strukturom kao u 
+dijelu zadatka a), određuje redni broj grada koji ima dati naziv.
+Ako takav grad ne postoji, funkcija treba da vrati -1.
+
+def RbrPoNazivu(gradovi, naziv):
+	pass
+
+e) napraviti funkciju RbrPoVelicini, koja za listu tuplova sa strukturom kao u 
+dijelu zadatka a), određuje redni broj grada koji ima datu velicinu.
+Ako takav grad ne postoji, funkcija treba da vrati -1.
+
+def RbrPoVelicini(gradovi, naziv):# ovdje se trazi velicina, pa argument ne moze biti naziv !!!!!!
+	pass
+
+	
+
+e) napraviti funkciju GradoviNaTeritoriji, koja za listu tuplova sa strukturom kao u 
+dijelu zadatka a), određuje listu tuplova sa gradovima na datoj teritoriji.
+Ako takvi gradovi ne postoje, funkcija treba da vrati praznu listu.
+
+def GradoviNaTeritoriji(gradovi, teritorija):
+	pass
+
+
+     

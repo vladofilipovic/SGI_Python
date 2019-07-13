@@ -1,0 +1,92 @@
+USO - Uso del veicolo. Valori Possibili:
+    0:PROPRIO
+    1:DI TERZI DA NOLEGGIO CON CONDUCENTE
+    2:DI TERZI DA LOCARE SENZA CONDUCENTE
+    3:DI TERZI
+    4:PROPRIO
+    5:PROPRIO
+    6:DI TERZI CON AUTORIZZAZIONI VINCOLATE
+    7:DI TERZI CON AUTORIZZAZIONE LIBERA
+    8:USO SPECIALE
+    9:PRIV.,LOCAZIONE FAC. COMPERA
+DESTINAZIONE - Tipologia del veicolo. Valori Possibili:
+    7:AUTOVEICOLO IN SERVIZIO PUBBLICO DI LINEA INTEGRATIVO
+    8:AUTOVEICOLO USO ESCLUSIVO DI POLIZIA
+    A:AUTOVETTURA PER TRASPORTO DI PERSONE
+    B:AUTOBUS PER TRASPORTO DI PERSONE
+    C:AUTOCARRO PER TRASPORTO DI COSE
+    I:AUTOCARAVAN
+    L:AUTOVEICOLO PER USO SPECIALE
+    O:TRAS.SPECIFICO PERSONE PART.CONDIZIONI
+    P:AUTOVEIC.TRASP.PROMISCUO PERSONE/COSE
+    S:TRATTORE STRADALE PER RIMORCHIO
+    T:TRATTORE PER SEMIRIMORCHIO
+    V:AUTOVEICOLO PER TRASPORTO SPECIFICO
+    3:QUADRICICLO PER TRASP. DI PERSONE
+    4:QUADRICICLO PER TRASP.DI COSE
+    5:QUADRICICLO PER USO SPECIALE
+    6:QUADRICICLO TRASP. SPECIFICO
+    9:MOTOVEICOLO USO ESCLUSIVO DI POLIZIA
+    D:TRICICLO PER TRASPORTO PROMISCUO
+    F:TRICICLO PER USO SPECIALE
+    G:TRICICLO PER TRASPORTO SPECIFICO
+    M:MOTOCICLO PER TRASPORTO PERSONE
+    N:TRICICLO PER TRASPORTO COSE
+    Z:TRICICLO PER TRASPORTO DI PERSONE
+    E:SEMIRIMORCHIO PER TRASPORTO SPECIFICO
+    H:SEMIRIMORCHIO PER TRASPORTO COSE
+    J:RIMORCHIO PER TRASPORTO ATTREZZATURE TURISTICHE E SPORTIVE
+    K:RIMORCHIO PER TRASPORTI SPECIFICI
+    Q:SEMIRIMORCHIO PER TRASPORTO PERSONE
+    R:RIMORCHIO PER TRASPORTO COSE
+    U:CARAVAN
+    W:RIMORCHIO PER TRASPORTO PERSONE
+    X:RIMORCHIO PER USO SPECIALE
+    Y:SEMIRIMORCHIO PER USO SPECIALE
+PORTATA - La portata del veicolo in Kg
+FLAG_ANN_MASSA_RIMORC - Flag indicante se il veicolo può rimorchiare o meno. Valori Possibili:
+    A:Massa Rimorchiabile Annullata
+    P:Veicolo che può rimorchiare
+    S:Veicolo che non può rimorchiare
+CILINDRATA - Numero della cilindrata del veicolo
+ALIMENTAZIONE- Tipo dell'alimentazione del veicolo. Valori Possibili:
+    MSC:MISCELA
+    ME:METANO
+    M:B/MET
+    GPL:B/GPL
+    GP:GPL
+    G:GASOL
+    ELE:ELETTR
+    B-W:B/WANK
+    B-O:B/OLIO
+    B:BENZ
+    P:PETROLIO
+    B-E:IBRIDO BENZINA/ELETTRICO
+    G-E:IBRIDO GASOLIO/ELETTRICO
+    BET:Benzina/Etanolo
+MASSA_RIMORCHIABILE - La massa massima rimorchiabile in Kg
+NUMERO_POSTI - Numero di posti possibile del veicolo
+TIPO_ALIMENTAZIONE_IMPIANTO - Impianto di alimentazione se installato successivamente:
+    F: impianto a GPL o Metano prima installato e poi rimosso.
+    GPL: Impianto a Gpl
+    M: Impianto a metano
+    X: Impianto Gpl/Metano Destrutturato
+    GAN : installazione gancio traino
+KW - Potenza Kilowatt del veicolo
+DT_PRIMA_IMMATRICOLAZIONE - Anno dell'immatricolazione del veicolo
+NUMERO_ASSI - Numero degli assi del veicolo
+COD_SIGLA_EURO - Classificazione euro del veicolo. Valori Possibili:
+    Euro0
+    Euro1
+    Euro2
+    Euro3
+    Euro4
+    Euro5
+    Euro6
+    NE Nessuna Emissione
+EMISSIONI_CO2 - EMISSIONI_CO2 in gr/Km
+PESO_COMPLESSIVO - Peso complessivo del veicolo senza la portata in Kg
+COD_ISTAT_COMUNE - Codice Istat del comune d'appartenenza del veicolo lombardo
+COD_ISTAT_PROVINCIA - Codice Istat della provincia d'appartenenza del veicolo lombardo
+
+

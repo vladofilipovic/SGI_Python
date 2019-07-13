@@ -1,0 +1,59 @@
+1. U datoteci `gradovi-cg.txt` date su informacije o nekim gradovima u Crnoj Gori.
+Svaki red datoteke sadrži sledeće informacije: redni broj grada (cio broj),
+naziv grada, naziv teritorije u kojoj se nalazi dati grad i broj stanovnika grada.
+
+a) Napraviti funkciju UcitajGradovi, koja iz datoteke čita podatke o gradovima
+i kao rezultat vraće recnik, gde je kljuc naziv grada, a odgovoarajuca  vrednost je 
+tupla koja sadrži redni broj grada, teritoriu u kojoj se nalazi dati grad i broj stanovnika. 
+Funkcija ima jedan argument - putanju do datoteke koja sadrži podatke o gradovima.
+
+b) napraviti funkciju NajmanjeStanovnikaIma, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada koji ima najmanje stanovnika.     
+
+def NajmanjeStanovnikaIma(gradovi):
+	pass
+
+b) napraviti funkciju NajviseStanovnikaIma, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada koji ima najvise stanovnika.
+
+def NajviseStanovnikaIma(gradovi):
+	pass
+
+c) napraviti funkciju NajbliziDatojVeliciniJe, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada koji je po broju stanovnika najbliži zadatoj veličini.
+
+def NajbliziDatojVeliciniJe(gradovi, ciljnaVelicina):
+	pass
+
+d) napraviti funkciju RbrPoNazivu, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje redni broj grada koji ima dati naziv.
+Ako takav grad ne postoji, funkcija treba da vrati -1.
+
+def RbrPoNazivu(gradovi, naziv):
+	pass
+
+e) napraviti funkciju RbrPoVelicini, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje redni broj grada koji ima datu velicinu.
+Ako takav grad ne postoji, funkcija treba da vrati -1.
+
+def RbrPoVelicini(gradovi, naziv):
+	pass
+
+	
+
+e) napraviti funkciju TeritorijePopulacija, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje recnik sa informacijama o teritorijama, gde je
+kljuc naziv teritorije, a vrednost je ukupan broj stanovnika na toj teritoriji.
+
+def TeritorijePopulacija(gradovi):
+	pass
+
+
+f) napraviti funkciju TeritorijeGradovi, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje recnik sa informacijama o teritorijama, gde je
+kljuc naziv teritorije, a vrednost je lista svih gradova na toj teritoriji.
+
+def TeritorijeGradovi(gradovi):
+	pass
+
+     

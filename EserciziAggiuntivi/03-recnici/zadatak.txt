@@ -1,0 +1,145 @@
+1. U datoteci `gradovi-region.txt` date su informacije o nekim gradovima u regionu.
+Svaki red datoteke sadrži sledeće informacije: naziv grada, naziv teritorije u kojoj se nalazi dati grad 
+i broj stanovnika grada. Ispred svake grupe gradova iz jedne drzave nalazi se naziv drzave.
+Linija bez teksta oznacava da je zavrsena jedna grupa drzava.
+
+a) Napraviti funkciju Ucitaj1, koja iz datoteke čita podatke o gradovima
+i kao rezultat vraće recnik, gde je kljuc trojka (naziv drzave, naziv teritorije, naziv grada), 
+a odgovoarajuca  vrednost je broj stanovnika. 
+Funkcija ima jedan argument - putanju do datoteke koja sadrži podatke o gradovima.
+
+b) Napraviti funkciju Ucitaj2, koja iz datoteke čita podatke o gradovima
+i kao rezultat vraće recnik, gde je kljuc naziv drzave, a vrednost koja odgovara nazivu drzave 
+je lista tupli (naziv teritorije, naziv grada, broj stanovnika) 
+Funkcija ima jedan argument - putanju do datoteke koja sadrži podatke o gradovima.
+
+c) Napraviti funkciju Ucitaj3, koja iz datoteke čita podatke o gradovima
+i kao rezultat vraće recnik, gde je kljuc naziv drzave, a vrednost koja odgovara nazivu drzave 
+je recnik kod koga je kljuc naziv grada kome odgovara par (naziv teritorije, broj stanovnika)
+Funkcija ima jedan argument - putanju do datoteke koja sadrži podatke o gradovima.
+
+d) Napraviti funkciju Ucitaj4, koja iz datoteke čita podatke o gradovima
+i kao rezultat vraće recnik, gde je kljuc naziv drzave, a vrednost koja odgovara nazivu drzave 
+je recnik kod koga je kljuc naziv teritorije kojoj odgovara lista parova (naziv grada, broj stanovnika)
+Funkcija ima jedan argument - putanju do datoteke koja sadrži podatke o gradovima.
+
+e) Napraviti funkciju Ucitaj5, koja iz datoteke čita podatke o gradovima
+i kao rezultat vraće recnik, gde je kljuc naziv drzave, a vrednost koja odgovara nazivu drzave 
+je recnik kod koga je kljuc naziv teritorije kojoj odgovara  reònik sa kljucem naziv grada i vrednoscu broj stanovnika
+Funkcija ima jedan argument - putanju do datoteke koja sadrži podatke o gradovima.
+
+f) napraviti funkciju NajmanjeStanovnika, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada koji ima najmanje stanovnika.     
+
+def NajmanjeStanovnika(gradovi):
+	pass
+
+g) napraviti funkciju NajmanjeStanovnikaNaTeritoriji, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada na datoj teritoriji koji ima najmanje stanovnika.     
+
+def NajmanjeStanovnikaNaTeritoriji(gradovi, teritorija):
+	pass
+
+g) napraviti funkciju NajmanjeStanovnikaUDrzavi, koja za recnik sa strukturom kao u 
+dijelu zadatka a), određuje naziv grada u toj drzavi koji ima najmanje stanovnika.     
+
+def NajmanjeStanovnikaUDrzavi(gradovi, drzava):
+	pass
+
+h) napraviti funkciju NajviseStanovnika2, koja za recnik sa strukturom kao u 
+dijelu zadatka b), određuje naziv grada koji ima najvise stanovnika.     
+
+def NajviseStanovnika2(gradovi):
+	pass
+
+i) napraviti funkciju NajviseStanovnikaNaTeritoriji2, koja za recnik sa strukturom kao u 
+dijelu zadatka b), određuje naziv grada na datoj teritoriji koji ima najvise stanovnika.     
+
+def NajviseStanovnikaNaTeritoriji2(gradovi, teritorija):
+	pass
+
+j) napraviti funkciju NajviseStanovnikaUDrzavi2, koja za recnik sa strukturom kao u 
+dijelu zadatka b), određuje naziv grada u toj drzavi koji ima najvise stanovnika.     
+
+def NajviseStanovnikaUDrzavi2(gradovi, drzava):
+	pass
+
+k) napraviti funkciju ProsjecnoStanovnika3, koja za recnik sa strukturom kao u 
+dijelu zadatka c), određuje projecan broj stanovnika u gradu.     
+
+def ProsjecnoStanovnika3(gradovi):
+	pass
+
+l) napraviti funkciju ProsjecnoStanovnikaPoTeritoriji3, koja za recnik sa strukturom kao u 
+dijelu zadatka c), određuje rjecnik gdje za svaku teritoriju upisuje koliko grad na toj teritoriji prosjecno ima stanovnika.     
+
+def  ProsjecnoStanovnikaPoTeritoriji3(gradovi):
+	pass
+
+m) napraviti funkciju ProsjecnoStanovnikaUDrzavi3, koja za recnik sa strukturom kao u 
+dijelu zadatka c), određuje rjecnik koji za datu drzavu odredjuje koliko grad u toj drzavi prosjecno ima stanovnika.     
+
+def ProsjecnoStanovnikaUDrzavi2(gradovi):
+	pass
+
+n) napraviti funkciju StanovnikaUDrzavi4, koja za recnik sa strukturom kao u 
+dijelu zadatka d), vrace recnik gdje je za svaku drzavu daje broj stanovnika u njoj    
+
+def StanovnikaUDrzavi4(gradovi):
+	pass
+
+
+o) napraviti funkciju NajviseStanovnikaUDrzavi4, koja za recnik sa strukturom kao u 
+dijelu zadatka d), vrace recnik gdje je za svaku drzavu dat naziv teritorije, naziv grada i broj stanovnika 
+za najveci grad u toj drzavi.     
+
+def NajviseStanovnikaUDrzavi4(gradovi):
+	pass
+
+
+p) napraviti funkciju NajblizeProsjekuDrzave4, koja za recnik sa strukturom kao u 
+dijelu zadatka d), vrace recnik gdje je za svaku drzavu dat prosjecan broj stanovnika u gradu te drzave, 
+naziv teritorije, naziv grada i broj stanovnika 
+za grad u toj drzavi sa brojem stanovnika najblizi prosjecnoj velicini grada u toj drzavi.     
+
+def NajblizeProsjekuDrzave4(gradovi):
+	pass
+
+q) napraviti funkciju StatistikaUDrzavi1, koja za recnik sa strukturom kao u 
+dijelu zadatka a), vrace recnik gdje je za svaku drzavu odredjen broj stanovnika u njoj, broj gradova i broj teritorija    
+
+def StatistikaUDrzavi1(gradovi):
+	pass
+
+r) napraviti funkciju StatistikaUDrzavi2, koja za recnik sa strukturom kao u 
+dijelu zadatka b), vrace recnik gdje je za svaku drzavu odredjen broj stanovnika u njoj, broj gradova i broj teritorija    
+
+def StatistikaUDrzavi2(gradovi):
+	pass
+
+t) napraviti funkciju StatistikaUDrzavi3, koja za recnik sa strukturom kao u 
+dijelu zadatka c), vrace recnik gdje je za svaku drzavu odredjen broj stanovnika u njoj, broj gradova i broj teritorija    
+
+def StatistikaUDrzavi3(gradovi):
+	pass
+
+u) napraviti funkciju StatistikaUDrzavi4, koja za recnik sa strukturom kao u 
+dijelu zadatka d), vrace recnik gdje je za svaku drzavu odredjen broj stanovnika u njoj, broj gradova i broj teritorija    
+
+def StatistikaUDrzavi4(gradovi):
+	pass
+
+v) napraviti funkciju StatistikaUDrzavi5, koja za recnik sa strukturom kao u 
+dijelu zadatka e), vrace recnik gdje je za svaku drzavu odredjen broj stanovnika u njoj, broj gradova i broj teritorija    
+
+def StatistikaUDrzavi5(gradovi):
+	pass
+
+w) napraviti funkciju NajdaljeProjekuDrzave5, koja za recnik sa strukturom kao u 
+dijelu zadatka e), vrace recnik gdje je za svaku drzavu dat prosjecan broj stanovnika u gradu te drzave, 
+naziv teritorije, naziv grada i broj stanovnika 
+za grad u toj drzavi sa brojem stanovnika najdalji od prosjecne velicine grada u toj drzavi.     
+
+def NajdaljeProjekuDrzave5(gradovi):
+	pass
+

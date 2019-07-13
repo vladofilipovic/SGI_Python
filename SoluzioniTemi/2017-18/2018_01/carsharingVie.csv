@@ -1,0 +1,106 @@
+ID_Via1;Via1;ID_Via2;Via2;Distanza
+0;Piazza Duomo;1;Via Manzoni;4
+0;Piazza Duomo;2;Piazza Castello;7
+0;Piazza Duomo;3;Via San Babila;12
+0;Piazza Duomo;4;Via Molino delle Armi;13
+0;Piazza Duomo;5;Via Senato;16
+0;Piazza Duomo;6;Via Carducci;21
+0;Piazza Duomo;7;Corso Como;24
+0;Piazza Duomo;8;Piazzale Loreto;25
+0;Piazza Duomo;9;Viale Romagna;28
+0;Piazza Duomo;10;Viale Marche;31
+0;Piazza Duomo;11;Viale Umbria;35
+0;Piazza Duomo;12;Viale Isonzo;38
+0;Piazza Duomo;13;Corso di Porta Ticinese;40
+0;Piazza Duomo;14;Viale Misurata;44
+1;Via Manzoni;2;Piazza Castello;4
+1;Via Manzoni;3;Via San Babila;9
+1;Via Manzoni;4;Via Molino delle Armi;12
+1;Via Manzoni;5;Via Senato;15
+1;Via Manzoni;6;Via Carducci;16
+1;Via Manzoni;7;Corso Como;20
+1;Via Manzoni;8;Piazzale Loreto;22
+1;Via Manzoni;9;Viale Romagna;27
+1;Via Manzoni;10;Viale Marche;29
+1;Via Manzoni;11;Viale Umbria;33
+1;Via Manzoni;12;Viale Isonzo;34
+1;Via Manzoni;13;Corso di Porta Ticinese;37
+1;Via Manzoni;14;Viale Misurata;41
+2;Piazza Castello;3;Via San Babila;6
+2;Piazza Castello;4;Via Molino delle Armi;8
+2;Piazza Castello;5;Via Senato;11
+2;Piazza Castello;6;Via Carducci;14
+2;Piazza Castello;7;Corso Como;18
+2;Piazza Castello;8;Piazzale Loreto;21
+2;Piazza Castello;9;Viale Romagna;24
+2;Piazza Castello;10;Viale Marche;26
+2;Piazza Castello;11;Viale Umbria;30
+2;Piazza Castello;12;Viale Isonzo;33
+2;Piazza Castello;13;Corso di Porta Ticinese;35
+2;Piazza Castello;14;Viale Misurata;37
+3;Via San Babila;4;Via Molino delle Armi;6
+3;Via San Babila;5;Via Senato;8
+3;Via San Babila;6;Via Carducci;11
+3;Via San Babila;7;Corso Como;15
+3;Via San Babila;8;Piazzale Loreto;17
+3;Via San Babila;9;Viale Romagna;19
+3;Via San Babila;10;Viale Marche;24
+3;Via San Babila;11;Viale Umbria;27
+3;Via San Babila;12;Viale Isonzo;29
+3;Via San Babila;13;Corso di Porta Ticinese;33
+3;Via San Babila;14;Viale Misurata;34
+4;Via Molino delle Armi;5;Via Senato;5
+4;Via Molino delle Armi;6;Via Carducci;7
+4;Via Molino delle Armi;7;Corso Como;10
+4;Via Molino delle Armi;8;Piazzale Loreto;13
+4;Via Molino delle Armi;9;Viale Romagna;16
+4;Via Molino delle Armi;10;Viale Marche;21
+4;Via Molino delle Armi;11;Viale Umbria;22
+4;Via Molino delle Armi;12;Viale Isonzo;26
+4;Via Molino delle Armi;13;Corso di Porta Ticinese;28
+4;Via Molino delle Armi;14;Viale Misurata;33
+5;Via Senato;6;Via Carducci;4
+5;Via Senato;7;Corso Como;9
+5;Via Senato;8;Piazzale Loreto;11
+5;Via Senato;9;Viale Romagna;14
+5;Via Senato;10;Viale Marche;16
+5;Via Senato;11;Viale Umbria;20
+5;Via Senato;12;Viale Isonzo;23
+5;Via Senato;13;Corso di Porta Ticinese;26
+5;Via Senato;14;Viale Misurata;29
+6;Via Carducci;7;Corso Como;6
+6;Via Carducci;8;Piazzale Loreto;8
+6;Via Carducci;9;Viale Romagna;12
+6;Via Carducci;10;Viale Marche;14
+6;Via Carducci;11;Viale Umbria;16
+6;Via Carducci;12;Viale Isonzo;21
+6;Via Carducci;13;Corso di Porta Ticinese;22
+6;Via Carducci;14;Viale Misurata;27
+7;Corso Como;8;Piazzale Loreto;6
+7;Corso Como;9;Viale Romagna;7
+7;Corso Como;10;Viale Marche;12
+7;Corso Como;11;Viale Umbria;13
+7;Corso Como;12;Viale Isonzo;18
+7;Corso Como;13;Corso di Porta Ticinese;19
+7;Corso Como;14;Viale Misurata;23
+8;Piazzale Loreto;9;Viale Romagna;4
+8;Piazzale Loreto;10;Viale Marche;7
+8;Piazzale Loreto;11;Viale Umbria;11
+8;Piazzale Loreto;12;Viale Isonzo;13
+8;Piazzale Loreto;13;Corso di Porta Ticinese;16
+8;Piazzale Loreto;14;Viale Misurata;20
+9;Viale Romagna;10;Viale Marche;6
+9;Viale Romagna;11;Viale Umbria;8
+9;Viale Romagna;12;Viale Isonzo;12
+9;Viale Romagna;13;Corso di Porta Ticinese;15
+9;Viale Romagna;14;Viale Misurata;18
+10;Viale Marche;11;Viale Umbria;6
+10;Viale Marche;12;Viale Isonzo;7
+10;Viale Marche;13;Corso di Porta Ticinese;12
+10;Viale Marche;14;Viale Misurata;13
+11;Viale Umbria;12;Viale Isonzo;4
+11;Viale Umbria;13;Corso di Porta Ticinese;7
+11;Viale Umbria;14;Viale Misurata;12
+12;Viale Isonzo;13;Corso di Porta Ticinese;4
+12;Viale Isonzo;14;Viale Misurata;8
+13;Corso di Porta Ticinese;14;Viale Misurata;4
